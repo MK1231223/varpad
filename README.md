@@ -21,4 +21,5 @@ VARPAD - text editor with the feature of creating variables and using them right
  - Divide /
 
 ### EXAMPLE
-<img width="1040" height="659" alt="image" src="https://github.com/user-attachments/assets/bc43aa3a-7da0-409a-8aab-466ce5794e9c" />
+<img width="1040" height="659" alt="image" src="https://github.com/user-attachments/assets/e60ccdee-6551-4d9d-8b6c-af9b2dfb6df5" />
+
